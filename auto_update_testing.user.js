@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Au-to updating testing
-// @version  1
+// @version  1.1
 // @updateURL  https://github.com/xiang-wang-2023/grease_monkey_scripts/raw/main/auto_update_testing.user.js
 // @include      /^https?:\/\/baidu\.com\/.*$/
 // ==/UserScript==
