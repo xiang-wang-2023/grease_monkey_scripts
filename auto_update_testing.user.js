@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name     Au-to updating testing
-// @version  2
+// @version  3
 // @updateURL  https://github.com/xiang-wang-2023/grease_monkey_scripts/blob/main/auto_update_testing.user.js
 // @match        *://*/*
 // ==/UserScript==
