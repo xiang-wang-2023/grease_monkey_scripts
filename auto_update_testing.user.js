@@ -2,7 +2,7 @@
 // @name     Au-to updating testing
 // @version  1.1
 // @updateURL  https://github.com/xiang-wang-2023/grease_monkey_scripts/raw/main/auto_update_testing.user.js
-// @include      /^https?:\/\/baidu\.com\/.*$/
+// @include      /^https?:\/\/bilibli\.com\/.*$/
 // ==/UserScript==
 
 // console.log("hello world");
